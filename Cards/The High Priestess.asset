@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7249f2647ec1794d0a7bc35349e96845, type: 3}
+  m_Name: The High Priestess
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  cardID: 2
+  cardName: Survivor
+  health: 5
+  attack: 2
+  costType: 1
+  playCost: 1
+  sacValue: 1
+  boneValue: 1
+  sigils: 
+  cardSprite: {fileID: 593987558406231324, guid: 0291621bbfd6c460abf9db43a5975a0f, type: 3}
+  description: Survivor from [DLT] clan. They are just trying to survive.
+  evolvesInto: {fileID: 0}

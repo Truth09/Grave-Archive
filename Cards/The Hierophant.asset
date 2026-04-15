@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7249f2647ec1794d0a7bc35349e96845, type: 3}
+  m_Name: The Hierophant
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  cardID: 5
+  cardName: Victor
+  health: 4
+  attack: 2
+  costType: 1
+  playCost: 3
+  sacValue: 1
+  boneValue: 1
+  sigils: 09000000
+  cardSprite: {fileID: -6591057594539571915, guid: 14d1286a04fb72a89b9f8057b8468f70, type: 3}
+  description: A lone wanderer with unusual skills. His ways hint at knowledge beyond
+    these lands, though he reveals little of it.
+  evolvesInto: {fileID: 0}

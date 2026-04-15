@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7249f2647ec1794d0a7bc35349e96845, type: 3}
+  m_Name: The Strength
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  cardID: 8
+  cardName: Arctodus
+  health: 18
+  attack: 10
+  costType: 1
+  playCost: 7
+  sacValue: 3
+  boneValue: 2
+  sigils: 
+  cardSprite: {fileID: 8143531007302669427, guid: dbf16461460d0977db56f299ec493ae2, type: 3}
+  description: An ancient beast, a mix of power and endurance. But it is nearing
+    its end.
+  evolvesInto: {fileID: 0}

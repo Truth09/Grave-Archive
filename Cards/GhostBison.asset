@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7249f2647ec1794d0a7bc35349e96845, type: 3}
+  m_Name: GhostBison
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  cardID: 25
+  cardName: Ghost Bison
+  health: 7
+  attack: 5
+  costType: 3
+  playCost: 5
+  sacValue: 1
+  boneValue: 0
+  sigils: 11000000
+  cardSprite: {fileID: -3589938626789626856, guid: 1a3097d56deda9cde9504461c0639073, type: 3}
+  description: 
+  evolvesInto: {fileID: 0}

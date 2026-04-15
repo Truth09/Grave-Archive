@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7249f2647ec1794d0a7bc35349e96845, type: 3}
+  m_Name: The Chariot
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  cardID: 7
+  cardName: Talos
+  health: 1
+  attack: 7
+  costType: 1
+  playCost: 3
+  sacValue: 1
+  boneValue: 1
+  sigils: 02000000
+  cardSprite: {fileID: 3302525882704295473, guid: a5f327b23dc2298fe86623edf36e0e9c, type: 3}
+  description: Fast moving automaton, will never get hit. But be ready to take hits
+    for it!
+  evolvesInto: {fileID: 0}

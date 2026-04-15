@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7249f2647ec1794d0a7bc35349e96845, type: 3}
+  m_Name: The Moon
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  cardID: 18
+  cardName: Phantom
+  health: 3
+  attack: 6
+  costType: 1
+  playCost: 3
+  sacValue: 1
+  boneValue: 1
+  sigils: 01000000
+  cardSprite: {fileID: 7160320624361502491, guid: adf57545a7ac019869812a196904fa1a, type: 3}
+  description: Group of lost spec ops. They will attack the main target.
+  evolvesInto: {fileID: 0}

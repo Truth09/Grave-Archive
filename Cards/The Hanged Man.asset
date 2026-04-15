@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7249f2647ec1794d0a7bc35349e96845, type: 3}
+  m_Name: The Hanged Man
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  cardID: 12
+  cardName: Komarov
+  health: 6
+  attack: 0
+  costType: 1
+  playCost: 4
+  sacValue: 2
+  boneValue: 1
+  sigils: 06000000
+  cardSprite: {fileID: -2179831516796529827, guid: 7eeed8d8bec226ad381980f530e0027b, type: 3}
+  description: 'A cornered man becomes a beast. Hasta la vista! '
+  evolvesInto: {fileID: 0}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7249f2647ec1794d0a7bc35349e96845, type: 3}
+  m_Name: Wheel of Fortune
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  cardID: 10
+  cardName: Slot Machine
+  health: 0
+  attack: 0
+  costType: 1
+  playCost: 6
+  sacValue: 3
+  boneValue: 1
+  sigils: 0c000000
+  cardSprite: {fileID: 693195512843694964, guid: dc1d44b88daabba82afc7c085afb8c94, type: 3}
+  description: A broken slot machine. Wanna go gambling?
+  evolvesInto: {fileID: 0}
