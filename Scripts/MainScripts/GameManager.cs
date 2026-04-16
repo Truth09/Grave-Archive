@@ -31,7 +31,7 @@ public class GameManager : MonoBehaviour
 
     public void RandomCard()
     {
-
+        SceneManager.LoadScene("Gift");
     }     // Choose a card between X amount of card
 
     public void DeleteCard()
@@ -41,16 +41,11 @@ public class GameManager : MonoBehaviour
 
     public void Trade()
     {
-
+        SceneManager.LoadScene("SacTrade");
     }     // Sacrifice your card to the cultists, and get other card of your choice
-
-    public void ViewDeck()
-    {
-
-    }     // View deck
 
     public void MainMenu()
     {
-
+        SceneManager.LoadScene("MainMenu");
     }     // Switch to main menu, also save the current position on the map
 }
